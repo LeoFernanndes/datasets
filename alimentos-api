@@ -3102,10 +3102,10 @@
         "porcao g": 100,
         "kilocalorias": "884",
         "kilojoules": "3699",
-        "carboidrato": NaN,
-        "proteinas g": NaN,
+        "carboidrato": 0,
+        "proteinas g": 0,
         "gordura g": "100",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "260",
@@ -3114,10 +3114,10 @@
         "porcao g": 100,
         "kilocalorias": "884",
         "kilojoules": "3699",
-        "carboidrato": NaN,
-        "proteinas g": NaN,
+        "carboidrato": 0,
+        "proteinas g": 0,
         "gordura g": "100",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "261",
@@ -3129,7 +3129,7 @@
         "carboidrato": "0.1",
         "proteinas g": "0.4",
         "gordura g": "82.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "262",
@@ -3141,7 +3141,7 @@
         "carboidrato": "0",
         "proteinas g": "0.4",
         "gordura g": "86",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "263",
@@ -3153,7 +3153,7 @@
         "carboidrato": "0",
         "proteinas g": "Tr",
         "gordura g": "67.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "264",
@@ -3165,7 +3165,7 @@
         "carboidrato": "0",
         "proteinas g": "Tr",
         "gordura g": "81.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "265",
@@ -3177,7 +3177,7 @@
         "carboidrato": "0",
         "proteinas g": "Tr",
         "gordura g": "67.2",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "266",
@@ -3189,7 +3189,7 @@
         "carboidrato": "0",
         "proteinas g": "Tr",
         "gordura g": "67.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "267",
@@ -3198,10 +3198,10 @@
         "porcao g": 100,
         "kilocalorias": "884",
         "kilojoules": "3699",
-        "carboidrato": NaN,
-        "proteinas g": NaN,
+        "carboidrato": 0,
+        "proteinas g": 0,
         "gordura g": "100",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "268",
@@ -3210,10 +3210,10 @@
         "porcao g": 100,
         "kilocalorias": "884",
         "kilojoules": "3699",
-        "carboidrato": NaN,
-        "proteinas g": NaN,
+        "carboidrato": 0,
+        "proteinas g": 0,
         "gordura g": "100",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "269",
@@ -3222,10 +3222,10 @@
         "porcao g": 100,
         "kilocalorias": "884",
         "kilojoules": "3699",
-        "carboidrato": NaN,
-        "proteinas g": NaN,
+        "carboidrato": 0,
+        "proteinas g": 0,
         "gordura g": "100",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "270",
@@ -3234,10 +3234,10 @@
         "porcao g": 100,
         "kilocalorias": "884",
         "kilojoules": "3699",
-        "carboidrato": NaN,
-        "proteinas g": NaN,
+        "carboidrato": 0,
+        "proteinas g": 0,
         "gordura g": "100",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "271",
@@ -3246,10 +3246,10 @@
         "porcao g": 100,
         "kilocalorias": "884",
         "kilojoules": "3699",
-        "carboidrato": NaN,
-        "proteinas g": NaN,
+        "carboidrato": 0,
+        "proteinas g": 0,
         "gordura g": "100",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "272",
@@ -3258,10 +3258,10 @@
         "porcao g": 100,
         "kilocalorias": "884",
         "kilojoules": "3699",
-        "carboidrato": NaN,
-        "proteinas g": NaN,
+        "carboidrato": 0,
+        "proteinas g": 0,
         "gordura g": "100",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "273",
@@ -3273,7 +3273,7 @@
         "carboidrato": "0",
         "proteinas g": "23.5",
         "gordura g": "1.2",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "274",
@@ -3285,7 +3285,7 @@
         "carboidrato": "0",
         "proteinas g": "19.3",
         "gordura g": "0.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "275",
@@ -3297,7 +3297,7 @@
         "carboidrato": "0",
         "proteinas g": "13.1",
         "gordura g": "0.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "276",
@@ -3309,7 +3309,7 @@
         "carboidrato": "0",
         "proteinas g": "27.6",
         "gordura g": "1.3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "277",
@@ -3321,7 +3321,7 @@
         "carboidrato": "0",
         "proteinas g": "26.2",
         "gordura g": "6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "278",
@@ -3333,7 +3333,7 @@
         "carboidrato": "0",
         "proteinas g": "25.7",
         "gordura g": "0.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "279",
@@ -3345,7 +3345,7 @@
         "carboidrato": "0",
         "proteinas g": "29",
         "gordura g": "1.3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "280",
@@ -3381,7 +3381,7 @@
         "carboidrato": "0",
         "proteinas g": "25.6",
         "gordura g": "0.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "283",
@@ -3393,7 +3393,7 @@
         "carboidrato": "0",
         "proteinas g": "17.9",
         "gordura g": "0.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "284",
@@ -3405,7 +3405,7 @@
         "carboidrato": "0",
         "proteinas g": "19",
         "gordura g": "1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "285",
@@ -3417,7 +3417,7 @@
         "carboidrato": "0",
         "proteinas g": "10",
         "gordura g": "0.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "286",
@@ -3429,7 +3429,7 @@
         "carboidrato": "2.9",
         "proteinas g": "18.4",
         "gordura g": "15.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "287",
@@ -3441,7 +3441,7 @@
         "carboidrato": "0",
         "proteinas g": "18.5",
         "gordura g": "0.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "288",
@@ -3453,7 +3453,7 @@
         "carboidrato": "0",
         "proteinas g": "17.4",
         "gordura g": "6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "289",
@@ -3465,7 +3465,7 @@
         "carboidrato": "0",
         "proteinas g": "19.9",
         "gordura g": "19.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "290",
@@ -3477,7 +3477,7 @@
         "carboidrato": "0",
         "proteinas g": "20.1",
         "gordura g": "16.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "291",
@@ -3489,7 +3489,7 @@
         "carboidrato": "0",
         "proteinas g": "18.9",
         "gordura g": "2.2",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "292",
@@ -3501,7 +3501,7 @@
         "carboidrato": "0",
         "proteinas g": "18.6",
         "gordura g": "1.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "293",
@@ -3513,7 +3513,7 @@
         "carboidrato": "0",
         "proteinas g": "26.8",
         "gordura g": "3.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "294",
@@ -3525,7 +3525,7 @@
         "carboidrato": "0",
         "proteinas g": "23.4",
         "gordura g": "2.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "295",
@@ -3537,7 +3537,7 @@
         "carboidrato": "0",
         "proteinas g": "18.8",
         "gordura g": "5.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "296",
@@ -3549,7 +3549,7 @@
         "carboidrato": "0",
         "proteinas g": "16.8",
         "gordura g": "6.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "297",
@@ -3561,7 +3561,7 @@
         "carboidrato": "0",
         "proteinas g": "28.4",
         "gordura g": "22.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "298",
@@ -3573,7 +3573,7 @@
         "carboidrato": "0",
         "proteinas g": "15.7",
         "gordura g": "9.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "299",
@@ -3597,7 +3597,7 @@
         "carboidrato": "0",
         "proteinas g": "30.1",
         "gordura g": "24.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "301",
@@ -3609,7 +3609,7 @@
         "carboidrato": "0",
         "proteinas g": "26.6",
         "gordura g": "0.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "302",
@@ -3621,7 +3621,7 @@
         "carboidrato": "0",
         "proteinas g": "16.6",
         "gordura g": "2",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "303",
@@ -3633,7 +3633,7 @@
         "carboidrato": "0",
         "proteinas g": "26.9",
         "gordura g": "8.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "304",
@@ -3645,7 +3645,7 @@
         "carboidrato": "0",
         "proteinas g": "16.3",
         "gordura g": "4.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "305",
@@ -3657,7 +3657,7 @@
         "carboidrato": "0",
         "proteinas g": "27.4",
         "gordura g": "11.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "306",
@@ -3681,7 +3681,7 @@
         "carboidrato": "0",
         "proteinas g": "16.7",
         "gordura g": "4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "308",
@@ -3693,7 +3693,7 @@
         "carboidrato": "0",
         "proteinas g": "28.6",
         "gordura g": "3.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "309",
@@ -3717,7 +3717,7 @@
         "carboidrato": "0",
         "proteinas g": "15.5",
         "gordura g": "1.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "311",
@@ -3729,7 +3729,7 @@
         "carboidrato": "0",
         "proteinas g": "36.5",
         "gordura g": "4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "312",
@@ -3741,7 +3741,7 @@
         "carboidrato": "0",
         "proteinas g": "18.6",
         "gordura g": "1.3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "313",
@@ -3753,7 +3753,7 @@
         "carboidrato": "0",
         "proteinas g": "30.8",
         "gordura g": "2.3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "314",
@@ -3765,7 +3765,7 @@
         "carboidrato": "0",
         "proteinas g": "20.5",
         "gordura g": "0.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "315",
@@ -3777,7 +3777,7 @@
         "carboidrato": "0",
         "proteinas g": "23.9",
         "gordura g": "14",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "316",
@@ -3789,7 +3789,7 @@
         "carboidrato": "0",
         "proteinas g": "19.3",
         "gordura g": "9.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "317",
@@ -3801,7 +3801,7 @@
         "carboidrato": "0",
         "proteinas g": "26.1",
         "gordura g": "14.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "318",
@@ -3813,7 +3813,7 @@
         "carboidrato": "0",
         "proteinas g": "32.2",
         "gordura g": "3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "319",
@@ -3825,7 +3825,7 @@
         "carboidrato": "0",
         "proteinas g": "15.9",
         "gordura g": "24",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "320",
@@ -3837,7 +3837,7 @@
         "carboidrato": "0",
         "proteinas g": "33.4",
         "gordura g": "12.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "321",
@@ -3849,7 +3849,7 @@
         "carboidrato": "0",
         "proteinas g": "21.1",
         "gordura g": "2.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "322",
@@ -3861,7 +3861,7 @@
         "carboidrato": "0",
         "proteinas g": "18",
         "gordura g": "1.2",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "323",
@@ -3873,7 +3873,7 @@
         "carboidrato": "2.9",
         "proteinas g": "13.5",
         "gordura g": "6.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "324",
@@ -3909,7 +3909,7 @@
         "carboidrato": "0",
         "proteinas g": "26.7",
         "gordura g": "10.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "327",
@@ -3921,7 +3921,7 @@
         "carboidrato": "0",
         "proteinas g": "19.4",
         "gordura g": "5.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "328",
@@ -3933,7 +3933,7 @@
         "carboidrato": "0",
         "proteinas g": "27.3",
         "gordura g": "10.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "329",
@@ -3945,7 +3945,7 @@
         "carboidrato": "0",
         "proteinas g": "20.8",
         "gordura g": "6.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "330",
@@ -3981,7 +3981,7 @@
         "carboidrato": "0",
         "proteinas g": "21.6",
         "gordura g": "4.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "333",
@@ -3993,7 +3993,7 @@
         "carboidrato": "0",
         "proteinas g": "20.5",
         "gordura g": "5.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "334",
@@ -4005,7 +4005,7 @@
         "carboidrato": "0",
         "proteinas g": "19.2",
         "gordura g": "15",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "335",
@@ -4017,7 +4017,7 @@
         "carboidrato": "0",
         "proteinas g": "30.7",
         "gordura g": "20",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "336",
@@ -4029,7 +4029,7 @@
         "carboidrato": "0",
         "proteinas g": "21.5",
         "gordura g": "4.3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "337",
@@ -4041,7 +4041,7 @@
         "carboidrato": "0",
         "proteinas g": "35.1",
         "gordura g": "10",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "338",
@@ -4053,7 +4053,7 @@
         "carboidrato": "0",
         "proteinas g": "36.4",
         "gordura g": "11.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "339",
@@ -4065,7 +4065,7 @@
         "carboidrato": "0",
         "proteinas g": "22.7",
         "gordura g": "16.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "340",
@@ -4089,7 +4089,7 @@
         "carboidrato": "0",
         "proteinas g": "19.8",
         "gordura g": "13.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "342",
@@ -4101,7 +4101,7 @@
         "carboidrato": "0",
         "proteinas g": "29.9",
         "gordura g": "16.3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "343",
@@ -4113,7 +4113,7 @@
         "carboidrato": "0",
         "proteinas g": "21.2",
         "gordura g": "12.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "344",
@@ -4125,7 +4125,7 @@
         "carboidrato": "0",
         "proteinas g": "32.4",
         "gordura g": "15.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "345",
@@ -4137,7 +4137,7 @@
         "carboidrato": "0",
         "proteinas g": "24",
         "gordura g": "6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "346",
@@ -4149,7 +4149,7 @@
         "carboidrato": "0",
         "proteinas g": "35.9",
         "gordura g": "4.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "347",
@@ -4161,7 +4161,7 @@
         "carboidrato": "0",
         "proteinas g": "28.8",
         "gordura g": "27.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "348",
@@ -4173,7 +4173,7 @@
         "carboidrato": "0",
         "proteinas g": "16.7",
         "gordura g": "31.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "349",
@@ -4185,7 +4185,7 @@
         "carboidrato": "0",
         "proteinas g": "31.9",
         "gordura g": "8.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "350",
@@ -4197,7 +4197,7 @@
         "carboidrato": "0",
         "proteinas g": "21.5",
         "gordura g": "6.2",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "351",
@@ -4209,7 +4209,7 @@
         "carboidrato": "0",
         "proteinas g": "32.4",
         "gordura g": "8.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "352",
@@ -4221,7 +4221,7 @@
         "carboidrato": "0",
         "proteinas g": "21.2",
         "gordura g": "8.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "353",
@@ -4233,7 +4233,7 @@
         "carboidrato": "0",
         "proteinas g": "28.6",
         "gordura g": "23",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "354",
@@ -4245,7 +4245,7 @@
         "carboidrato": "0",
         "proteinas g": "19.5",
         "gordura g": "15.3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "355",
@@ -4257,7 +4257,7 @@
         "carboidrato": "1.1",
         "proteinas g": "20.7",
         "gordura g": "5.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "356",
@@ -4269,7 +4269,7 @@
         "carboidrato": "4.2",
         "proteinas g": "29.9",
         "gordura g": "9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "357",
@@ -4281,7 +4281,7 @@
         "carboidrato": "0",
         "proteinas g": "21.6",
         "gordura g": "5.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "358",
@@ -4293,7 +4293,7 @@
         "carboidrato": "0",
         "proteinas g": "32.8",
         "gordura g": "8.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "359",
@@ -4305,7 +4305,7 @@
         "carboidrato": "0",
         "proteinas g": "29.4",
         "gordura g": "7.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "360",
@@ -4317,7 +4317,7 @@
         "carboidrato": "0",
         "proteinas g": "20",
         "gordura g": "6.2",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "361",
@@ -4329,7 +4329,7 @@
         "carboidrato": "0",
         "proteinas g": "24.2",
         "gordura g": "26",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "362",
@@ -4341,7 +4341,7 @@
         "carboidrato": "0",
         "proteinas g": "17.6",
         "gordura g": "16.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "363",
@@ -4353,7 +4353,7 @@
         "carboidrato": "0",
         "proteinas g": "32.9",
         "gordura g": "9.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "364",
@@ -4365,7 +4365,7 @@
         "carboidrato": "0",
         "proteinas g": "20.5",
         "gordura g": "5.2",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "365",
@@ -4377,7 +4377,7 @@
         "carboidrato": "0",
         "proteinas g": "21.4",
         "gordura g": "24.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "366",
@@ -4389,7 +4389,7 @@
         "carboidrato": "0",
         "proteinas g": "17.1",
         "gordura g": "15.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "367",
@@ -4401,7 +4401,7 @@
         "carboidrato": "0",
         "proteinas g": "20.9",
         "gordura g": "7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "368",
@@ -4413,7 +4413,7 @@
         "carboidrato": "0",
         "proteinas g": "30.7",
         "gordura g": "2.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "369",
@@ -4425,7 +4425,7 @@
         "carboidrato": "0",
         "proteinas g": "21.6",
         "gordura g": "7.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "370",
@@ -4437,7 +4437,7 @@
         "carboidrato": "0",
         "proteinas g": "31.9",
         "gordura g": "11.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "371",
@@ -4449,7 +4449,7 @@
         "carboidrato": "0",
         "proteinas g": "31.2",
         "gordura g": "6.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "372",
@@ -4461,7 +4461,7 @@
         "carboidrato": "0",
         "proteinas g": "21.6",
         "gordura g": "5.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "373",
@@ -4473,7 +4473,7 @@
         "carboidrato": "0",
         "proteinas g": "21.4",
         "gordura g": "7.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "374",
@@ -4485,7 +4485,7 @@
         "carboidrato": "0",
         "proteinas g": "29.7",
         "gordura g": "7.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "375",
@@ -4497,7 +4497,7 @@
         "carboidrato": "0",
         "proteinas g": "21",
         "gordura g": "5.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "376",
@@ -4509,7 +4509,7 @@
         "carboidrato": "0",
         "proteinas g": "21.7",
         "gordura g": "4.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "377",
@@ -4521,7 +4521,7 @@
         "carboidrato": "0",
         "proteinas g": "35.9",
         "gordura g": "7.3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "378",
@@ -4533,7 +4533,7 @@
         "carboidrato": "0",
         "proteinas g": "22.2",
         "gordura g": "27",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "379",
@@ -4545,7 +4545,7 @@
         "carboidrato": "0",
         "proteinas g": "17.6",
         "gordura g": "20.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "380",
@@ -4557,7 +4557,7 @@
         "carboidrato": "0",
         "proteinas g": "18.8",
         "gordura g": "14.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "381",
@@ -4569,7 +4569,7 @@
         "carboidrato": "0",
         "proteinas g": "26.4",
         "gordura g": "19.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "382",
@@ -4581,7 +4581,7 @@
         "carboidrato": "0",
         "proteinas g": "21.3",
         "gordura g": "4.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "383",
@@ -4593,7 +4593,7 @@
         "carboidrato": "0",
         "proteinas g": "31.9",
         "gordura g": "11.3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "384",
@@ -4605,7 +4605,7 @@
         "carboidrato": "0",
         "proteinas g": "26.9",
         "gordura g": "21.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "385",
@@ -4617,7 +4617,7 @@
         "carboidrato": "0",
         "proteinas g": "19.7",
         "gordura g": "25.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "386",
@@ -4641,7 +4641,7 @@
         "carboidrato": "13.9",
         "proteinas g": "12",
         "gordura g": "15.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "388",
@@ -4653,7 +4653,7 @@
         "carboidrato": "18.1",
         "proteinas g": "16.9",
         "gordura g": "22.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "389",
@@ -4689,7 +4689,7 @@
         "carboidrato": "0",
         "proteinas g": "18.1",
         "gordura g": "15.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "392",
@@ -4701,7 +4701,7 @@
         "carboidrato": "0",
         "proteinas g": "23.9",
         "gordura g": "15.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "393",
@@ -4713,7 +4713,7 @@
         "carboidrato": "0",
         "proteinas g": "29.6",
         "gordura g": "7.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "394",
@@ -4725,7 +4725,7 @@
         "carboidrato": "0",
         "proteinas g": "12.6",
         "gordura g": "18.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "395",
@@ -4737,7 +4737,7 @@
         "carboidrato": "0.6",
         "proteinas g": "22.4",
         "gordura g": "12.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "396",
@@ -4749,7 +4749,7 @@
         "carboidrato": "0.1",
         "proteinas g": "28.5",
         "gordura g": "10.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "397",
@@ -4761,7 +4761,7 @@
         "carboidrato": "0",
         "proteinas g": "17.1",
         "gordura g": "9.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "398",
@@ -4773,7 +4773,7 @@
         "carboidrato": "0",
         "proteinas g": "26.9",
         "gordura g": "5.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "399",
@@ -4785,7 +4785,7 @@
         "carboidrato": "0",
         "proteinas g": "17.8",
         "gordura g": "4.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "400",
@@ -4797,7 +4797,7 @@
         "carboidrato": "0",
         "proteinas g": "17.6",
         "gordura g": "3.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "401",
@@ -4821,7 +4821,7 @@
         "carboidrato": "0",
         "proteinas g": "16.4",
         "gordura g": "17.3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "403",
@@ -4833,7 +4833,7 @@
         "carboidrato": "0",
         "proteinas g": "28",
         "gordura g": "7.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "404",
@@ -4845,7 +4845,7 @@
         "carboidrato": "0",
         "proteinas g": "25",
         "gordura g": "7.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "405",
@@ -4857,7 +4857,7 @@
         "carboidrato": "0",
         "proteinas g": "20.6",
         "gordura g": "4.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "406",
@@ -4869,7 +4869,7 @@
         "carboidrato": "0",
         "proteinas g": "33.4",
         "gordura g": "7.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "407",
@@ -4881,7 +4881,7 @@
         "carboidrato": "0",
         "proteinas g": "20.8",
         "gordura g": "6.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "408",
@@ -4893,7 +4893,7 @@
         "carboidrato": "0",
         "proteinas g": "31.5",
         "gordura g": "3.2",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "409",
@@ -4905,7 +4905,7 @@
         "carboidrato": "0",
         "proteinas g": "21.5",
         "gordura g": "3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "410",
@@ -4917,7 +4917,7 @@
         "carboidrato": "0",
         "proteinas g": "32",
         "gordura g": "2.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "411",
@@ -4929,7 +4929,7 @@
         "carboidrato": "0",
         "proteinas g": "28.7",
         "gordura g": "15.2",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "412",
@@ -4941,7 +4941,7 @@
         "carboidrato": "0",
         "proteinas g": "15.5",
         "gordura g": "20.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "413",
@@ -4953,7 +4953,7 @@
         "carboidrato": "0",
         "proteinas g": "29.2",
         "gordura g": "12",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "414",
@@ -4965,7 +4965,7 @@
         "carboidrato": "0",
         "proteinas g": "17.6",
         "gordura g": "9.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "415",
@@ -5013,7 +5013,7 @@
         "carboidrato": "0",
         "proteinas g": "14.2",
         "gordura g": "17.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "419",
@@ -5025,7 +5025,7 @@
         "carboidrato": "0",
         "proteinas g": "18.3",
         "gordura g": "18.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "420",
@@ -5037,7 +5037,7 @@
         "carboidrato": "0",
         "proteinas g": "18.2",
         "gordura g": "18.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "421",
@@ -5049,7 +5049,7 @@
         "carboidrato": "0",
         "proteinas g": "16.1",
         "gordura g": "17.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "422",
@@ -5061,7 +5061,7 @@
         "carboidrato": "0",
         "proteinas g": "20.5",
         "gordura g": "21.3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "423",
@@ -5073,7 +5073,7 @@
         "carboidrato": "0",
         "proteinas g": "23.2",
         "gordura g": "21.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "424",
@@ -5085,7 +5085,7 @@
         "carboidrato": "5.8",
         "proteinas g": "12",
         "gordura g": "21.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "425",
@@ -5097,7 +5097,7 @@
         "carboidrato": "0",
         "proteinas g": "26.2",
         "gordura g": "5.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "426",
@@ -5109,7 +5109,7 @@
         "carboidrato": "0",
         "proteinas g": "18.1",
         "gordura g": "1.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "427",
@@ -5121,7 +5121,7 @@
         "carboidrato": "0",
         "proteinas g": "21.5",
         "gordura g": "8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "428",
@@ -5133,7 +5133,7 @@
         "carboidrato": "0",
         "proteinas g": "33.7",
         "gordura g": "18.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "429",
@@ -5145,7 +5145,7 @@
         "carboidrato": "0",
         "proteinas g": "28.9",
         "gordura g": "17.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "430",
@@ -5157,7 +5157,7 @@
         "carboidrato": "0",
         "proteinas g": "30.2",
         "gordura g": "30.3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "431",
@@ -5169,7 +5169,7 @@
         "carboidrato": "0",
         "proteinas g": "18",
         "gordura g": "19.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "432",
@@ -5181,7 +5181,7 @@
         "carboidrato": "0",
         "proteinas g": "35.7",
         "gordura g": "6.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "433",
@@ -5193,7 +5193,7 @@
         "carboidrato": "0",
         "proteinas g": "22.6",
         "gordura g": "8.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "434",
@@ -5205,7 +5205,7 @@
         "carboidrato": "0",
         "proteinas g": "18.5",
         "gordura g": "19.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "435",
@@ -5217,7 +5217,7 @@
         "carboidrato": "0",
         "proteinas g": "32.1",
         "gordura g": "13.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "436",
@@ -5229,7 +5229,7 @@
         "carboidrato": "0",
         "proteinas g": "20.1",
         "gordura g": "11.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "437",
@@ -5241,7 +5241,7 @@
         "carboidrato": "0",
         "proteinas g": "15.6",
         "gordura g": "34.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "438",
@@ -5253,7 +5253,7 @@
         "carboidrato": "1.4",
         "proteinas g": "14.4",
         "gordura g": "6.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "439",
@@ -5265,7 +5265,7 @@
         "carboidrato": "2.1",
         "proteinas g": "14.3",
         "gordura g": "2.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "440",
@@ -5301,7 +5301,7 @@
         "carboidrato": "12.3",
         "proteinas g": "14.9",
         "gordura g": "15.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "443",
@@ -5313,7 +5313,7 @@
         "carboidrato": "2.9",
         "proteinas g": "25.8",
         "gordura g": "30.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "444",
@@ -5325,7 +5325,7 @@
         "carboidrato": "0",
         "proteinas g": "11.5",
         "gordura g": "60.3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "445",
@@ -5337,7 +5337,7 @@
         "carboidrato": "0",
         "proteinas g": "27.3",
         "gordura g": "64.3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "446",
@@ -5361,7 +5361,7 @@
         "carboidrato": "4.5",
         "proteinas g": "1.5",
         "gordura g": "22.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "448",
@@ -5373,7 +5373,7 @@
         "carboidrato": "1.9",
         "proteinas g": "4.1",
         "gordura g": "3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "449",
@@ -5385,7 +5385,7 @@
         "carboidrato": "5.8",
         "proteinas g": "3.8",
         "gordura g": "0.3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "450",
@@ -5433,7 +5433,7 @@
         "carboidrato": "57",
         "proteinas g": "7.7",
         "gordura g": "6.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "454",
@@ -5445,7 +5445,7 @@
         "carboidrato": "5.2",
         "proteinas g": "3.1",
         "gordura g": "3.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "455",
@@ -5469,7 +5469,7 @@
         "carboidrato": "53",
         "proteinas g": "34.7",
         "gordura g": "0.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "457",
@@ -5481,7 +5481,7 @@
         "carboidrato": "*",
         "proteinas g": "*",
         "gordura g": "*",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "458",
@@ -5493,7 +5493,7 @@
         "carboidrato": "*",
         "proteinas g": "*",
         "gordura g": "*",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "459",
@@ -5505,7 +5505,7 @@
         "carboidrato": "39.2",
         "proteinas g": "25.4",
         "gordura g": "26.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "460",
@@ -5517,7 +5517,7 @@
         "carboidrato": "15.7",
         "proteinas g": "1.9",
         "gordura g": "0.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "461",
@@ -5529,7 +5529,7 @@
         "carboidrato": "3.2",
         "proteinas g": "17.4",
         "gordura g": "20.2",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "462",
@@ -5541,7 +5541,7 @@
         "carboidrato": "3.6",
         "proteinas g": "21.2",
         "gordura g": "24.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "463",
@@ -5553,7 +5553,7 @@
         "carboidrato": "3",
         "proteinas g": "22.6",
         "gordura g": "25.2",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "464",
@@ -5565,7 +5565,7 @@
         "carboidrato": "1.7",
         "proteinas g": "35.6",
         "gordura g": "33.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "465",
@@ -5577,7 +5577,7 @@
         "carboidrato": "5.7",
         "proteinas g": "9.4",
         "gordura g": "27.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "466",
@@ -5589,7 +5589,7 @@
         "carboidrato": "18.5",
         "proteinas g": "5.8",
         "gordura g": "2.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "467",
@@ -5601,7 +5601,7 @@
         "carboidrato": "1.9",
         "proteinas g": "22.7",
         "gordura g": "29.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "468",
@@ -5613,7 +5613,7 @@
         "carboidrato": "2.4",
         "proteinas g": "9.6",
         "gordura g": "23.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "469",
@@ -5625,7 +5625,7 @@
         "carboidrato": "3.8",
         "proteinas g": "12.6",
         "gordura g": "8.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "470",
@@ -5637,7 +5637,7 @@
         "carboidrato": "6.4",
         "proteinas g": "0",
         "gordura g": "0",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "471",
@@ -5649,7 +5649,7 @@
         "carboidrato": "1.5",
         "proteinas g": "0.7",
         "gordura g": "0.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "472",
@@ -5658,10 +5658,10 @@
         "porcao g": 100,
         "kilocalorias": "216",
         "kilojoules": "902",
-        "carboidrato": NaN,
-        "proteinas g": NaN,
-        "gordura g": NaN,
-        "fibra g": NaN
+        "carboidrato": 0,
+        "proteinas g": 0,
+        "gordura g": 0,
+        "fibra g": 0
     },
     {
         "numero alimento": "473",
@@ -5685,7 +5685,7 @@
         "carboidrato": "3.3",
         "proteinas g": "0.6",
         "gordura g": "Tr",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "475",
@@ -5697,7 +5697,7 @@
         "carboidrato": "0.4",
         "proteinas g": "0",
         "gordura g": "0",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "476",
@@ -5709,7 +5709,7 @@
         "carboidrato": "0.6",
         "proteinas g": "0",
         "gordura g": "0.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "477",
@@ -5721,7 +5721,7 @@
         "carboidrato": "0.6",
         "proteinas g": "0",
         "gordura g": "0",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "478",
@@ -5745,7 +5745,7 @@
         "carboidrato": "8",
         "proteinas g": "0",
         "gordura g": "0",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "480",
@@ -5757,7 +5757,7 @@
         "carboidrato": "8.7",
         "proteinas g": "0",
         "gordura g": "0",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "481",
@@ -5769,7 +5769,7 @@
         "carboidrato": "10",
         "proteinas g": "0",
         "gordura g": "0",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "482",
@@ -5781,7 +5781,7 @@
         "carboidrato": "11.8",
         "proteinas g": "0",
         "gordura g": "0",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "483",
@@ -5793,7 +5793,7 @@
         "carboidrato": "10.3",
         "proteinas g": "0",
         "gordura g": "0",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "484",
@@ -5805,7 +5805,7 @@
         "carboidrato": "0.4",
         "proteinas g": "15.6",
         "gordura g": "22",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "485",
@@ -5817,7 +5817,7 @@
         "carboidrato": "0.8",
         "proteinas g": "13.7",
         "gordura g": "12.7",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "486",
@@ -5829,7 +5829,7 @@
         "carboidrato": "0",
         "proteinas g": "13.4",
         "gordura g": "0.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "487",
@@ -5841,7 +5841,7 @@
         "carboidrato": "1.6",
         "proteinas g": "15.9",
         "gordura g": "30.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "488",
@@ -5853,7 +5853,7 @@
         "carboidrato": "0.6",
         "proteinas g": "13.3",
         "gordura g": "9.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "489",
@@ -5865,7 +5865,7 @@
         "carboidrato": "1.6",
         "proteinas g": "13",
         "gordura g": "8.9",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "490",
@@ -5877,7 +5877,7 @@
         "carboidrato": "1.2",
         "proteinas g": "15.6",
         "gordura g": "18.6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "491",
@@ -5901,7 +5901,7 @@
         "carboidrato": "99.6",
         "proteinas g": "0.3",
         "gordura g": "Tr",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "493",
@@ -5913,7 +5913,7 @@
         "carboidrato": "94.5",
         "proteinas g": "0.8",
         "gordura g": "0.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "494",
@@ -5925,7 +5925,7 @@
         "carboidrato": "99.5",
         "proteinas g": "0.3",
         "gordura g": "Tr",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "495",
@@ -6009,7 +6009,7 @@
         "carboidrato": "59.5",
         "proteinas g": "5.5",
         "gordura g": "6",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "502",
@@ -6021,7 +6021,7 @@
         "carboidrato": "24.2",
         "proteinas g": "2.1",
         "gordura g": "0.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "503",
@@ -6033,7 +6033,7 @@
         "carboidrato": "79.4",
         "proteinas g": "0",
         "gordura g": "0",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "504",
@@ -6081,7 +6081,7 @@
         "carboidrato": "84",
         "proteinas g": "0",
         "gordura g": "0",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "508",
@@ -6093,7 +6093,7 @@
         "carboidrato": "76.6",
         "proteinas g": "0",
         "gordura g": "0",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "509",
@@ -6117,7 +6117,7 @@
         "carboidrato": "90.8",
         "proteinas g": "1",
         "gordura g": "0.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "511",
@@ -6153,7 +6153,7 @@
         "carboidrato": "43.9",
         "proteinas g": "0.5",
         "gordura g": "0.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "514",
@@ -6177,31 +6177,31 @@
         "carboidrato": "89.2",
         "proteinas g": "8.9",
         "gordura g": "Tr",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "516",
         "descricao alimento": "Sal diet\u00e9tico",
         "tipo aliento": "Miscel\u00e2neas",
         "porcao g": 100,
-        "kilocalorias": NaN,
-        "kilojoules": NaN,
-        "carboidrato": NaN,
-        "proteinas g": NaN,
-        "gordura g": NaN,
-        "fibra g": NaN
+        "kilocalorias": 0,
+        "kilojoules": 0,
+        "carboidrato": 0,
+        "proteinas g": 0,
+        "gordura g": 0,
+        "fibra g": 0
     },
     {
         "numero alimento": "517",
         "descricao alimento": "Sal grosso",
         "tipo aliento": "Miscel\u00e2neas",
         "porcao g": 100,
-        "kilocalorias": NaN,
-        "kilojoules": NaN,
-        "carboidrato": NaN,
-        "proteinas g": NaN,
-        "gordura g": NaN,
-        "fibra g": NaN
+        "kilocalorias": 0,
+        "kilojoules": 0,
+        "carboidrato": 0,
+        "proteinas g": 0,
+        "gordura g": 0,
+        "fibra g": 0
     },
     {
         "numero alimento": "518",
@@ -6213,7 +6213,7 @@
         "carboidrato": "11.6",
         "proteinas g": "3.3",
         "gordura g": "0.3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "519",
@@ -6261,7 +6261,7 @@
         "carboidrato": "16.9",
         "proteinas g": "0.5",
         "gordura g": "27.3",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "523",
@@ -6285,7 +6285,7 @@
         "carboidrato": "7.9",
         "proteinas g": "0.6",
         "gordura g": "30.5",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "525",
@@ -6345,7 +6345,7 @@
         "carboidrato": "0",
         "proteinas g": "23.7",
         "gordura g": "21.1",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "530",
@@ -6429,7 +6429,7 @@
         "carboidrato": "0",
         "proteinas g": "19.8",
         "gordura g": "4.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "537",
@@ -6441,7 +6441,7 @@
         "carboidrato": "3",
         "proteinas g": "15",
         "gordura g": "10.8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "538",
@@ -6453,7 +6453,7 @@
         "carboidrato": "2.6",
         "proteinas g": "17.6",
         "gordura g": "8",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "539",
@@ -6573,7 +6573,7 @@
         "carboidrato": "1.1",
         "proteinas g": "18.5",
         "gordura g": "4.4",
-        "fibra g": NaN
+        "fibra g": 0
     },
     {
         "numero alimento": "549",
